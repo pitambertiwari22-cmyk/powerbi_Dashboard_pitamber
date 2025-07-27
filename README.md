@@ -31,5 +31,5 @@ This repository contains a **Sales Dashboard** that provides insights into sales
 3. Explore insights using slicers (Region, Year).
 
 ## 📬 Contact
-📧 Email: yourname@email.com  
-🔗 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+📧 Email: pitambertiwari22@gmail.com
+
